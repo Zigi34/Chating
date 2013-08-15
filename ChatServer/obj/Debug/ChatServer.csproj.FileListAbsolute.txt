@@ -1,0 +1,25 @@
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\StudentuvProgram\bin\Debug\StudentuvProgram.exe
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\StudentuvProgram\bin\Debug\StudentuvProgram.pdb
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\StudentuvProgram\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\StudentuvProgram\obj\Debug\StudentuvProgram.exe
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\StudentuvProgram\obj\Debug\StudentuvProgram.pdb
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\ChatServer\bin\Debug\StudentuvProgram.exe
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\ChatServer\bin\Debug\StudentuvProgram.pdb
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\ChatServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\ChatServer\obj\Debug\StudentuvProgram.exe
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\ChatServer\obj\Debug\StudentuvProgram.pdb
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\ChatServer\obj\Debug\StudentuvProgram.exe
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\ChatServer\obj\Debug\StudentuvProgram.pdb
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\ChatServer\bin\Debug\StudentuvProgram.exe
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\ChatServer\bin\Debug\StudentuvProgram.pdb
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\ChatServer\obj\Debug\ResolveAssemblyReference.cache
+D:\SCHOOL\Zigi (.NET)\ChatServer\obj\Debug\ResolveAssemblyReference.cache
+D:\SCHOOL\Zigi (.NET)\ChatServer\bin\Debug\ChatServer.exe
+D:\SCHOOL\Zigi (.NET)\ChatServer\bin\Debug\ChatServer.pdb
+D:\SCHOOL\Zigi (.NET)\ChatServer\obj\Debug\ChatServer.exe
+D:\SCHOOL\Zigi (.NET)\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\ChatServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\ChatServer\bin\Debug\ChatServer.pdb

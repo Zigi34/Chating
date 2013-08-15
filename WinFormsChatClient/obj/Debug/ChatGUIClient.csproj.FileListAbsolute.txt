@@ -1,0 +1,18 @@
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\bin\Debug\ChatGUIClient.exe
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\bin\Debug\ChatGUIClient.pdb
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\WinFormsChatClient.Form1.resources
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\WinFormsChatClient.Properties.Resources.resources
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\ResGen.read.1.tlog
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\ResGen.write.1.tlog
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\ChatGUIClient.exe
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\ChatGUIClient.pdb
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\obj\Debug\ChatGUIClient.exe
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\obj\Debug\ChatGUIClient.pdb
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\bin\Debug\ChatGUIClient.exe
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\bin\Debug\ChatGUIClient.pdb
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\obj\Debug\WinFormsChatClient.Form1.resources
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\obj\Debug\WinFormsChatClient.Properties.Resources.resources
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\obj\Debug\ResGen.read.1.tlog
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\obj\Debug\ResGen.write.1.tlog

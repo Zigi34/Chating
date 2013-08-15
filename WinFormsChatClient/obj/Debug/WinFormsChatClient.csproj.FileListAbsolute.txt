@@ -1,0 +1,30 @@
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\WinFormsChatClient\bin\Debug\WinFormsChatClient.exe
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\WinFormsChatClient\bin\Debug\WinFormsChatClient.pdb
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\WinFormsChatClient\bin\Debug\ChatClient.exe
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\WinFormsChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\WinFormsChatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\WinFormsChatClient\obj\Debug\WinFormsChatClient.Form1.resources
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\WinFormsChatClient\obj\Debug\WinFormsChatClient.Properties.Resources.resources
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\WinFormsChatClient\obj\Debug\WinFormsChatClient.csproj.GenerateResource.Cache
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\WinFormsChatClient\obj\Debug\WinFormsChatClient.exe
+C:\Users\Karel\Documents\Visual Studio 2008\Projects\StudentuvProgram\WinFormsChatClient\obj\Debug\WinFormsChatClient.pdb
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\WinFormsChatClient\bin\Debug\WinFormsChatClient.exe
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\WinFormsChatClient\bin\Debug\WinFormsChatClient.pdb
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\WinFormsChatClient\bin\Debug\ChatClient.exe
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\WinFormsChatClient\bin\Debug\ChatClient.pdb
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\WinFormsChatClient\obj\Debug\ResolveAssemblyReference.cache
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\WinFormsChatClient\obj\Debug\WinFormsChatClient.Form1.resources
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\WinFormsChatClient\obj\Debug\WinFormsChatClient.Properties.Resources.resources
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\WinFormsChatClient\obj\Debug\WinFormsChatClient.exe
+E:\SCHOOL\3 AT.NET (architektura technologie .NET)\CVIČENÍ\cv7\WinFormsChatClient\obj\Debug\WinFormsChatClient.pdb
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\bin\Debug\ChatClient.exe
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\bin\Debug\ChatClient.pdb
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\WinFormsChatClient.Form1.resources
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\WinFormsChatClient.Properties.Resources.resources
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\ResGen.read.1.tlog
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\ResGen.write.1.tlog
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\bin\Debug\Klient.exe
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\bin\Debug\Klient.pdb
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\Klient.exe
+D:\SCHOOL\Zigi (.NET)\Chat\WinFormsChatClient\obj\Debug\Klient.pdb

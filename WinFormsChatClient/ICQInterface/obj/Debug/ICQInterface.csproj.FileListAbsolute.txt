@@ -1,0 +1,5 @@
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\ICQInterface\bin\Debug\ICQInterface.dll
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\ICQInterface\bin\Debug\ICQInterface.pdb
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\ICQInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\ICQInterface\obj\Debug\ICQInterface.dll
+C:\Users\Zigi\Desktop\PROGRAMOVÁNÍ\Chatovani\WinFormsChatClient\ICQInterface\obj\Debug\ICQInterface.pdb
